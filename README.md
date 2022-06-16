@@ -1,5 +1,25 @@
-<h1 align="center">Hi 👋, I'm john</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">John</h1>
+
+---
+<h2 align="left">Education:</h2>
+<table align="center">
+  <tr>
+    <td>2021/09 - present</td>
+    <td>
+      <b>Master of 
+      <a href="https://www.nsysu.edu.tw/" >National Sun Yat-sen University</a>, 
+      <a href="https://cse.nsysu.edu.tw/">Department of Computer Science and Engineering</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>2017/09 - 2021/07</td>
+    <td>
+      <b>Bachelor of 
+      <a href="https://www.tku.edu.tw/">Tamkang University</a>, 
+      <a href="http://www.csie.tku.edu.tw/">Department of Computer Science and Information Engineering</a></b>
+    </td>
+  </tr>
+</table>
 
 - 📫 How to reach me **john8710310121@gmail.com**
 
