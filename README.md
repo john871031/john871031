@@ -1,6 +1,5 @@
 <h1 align="center">John</h1>
 
----
 <h2 align="left">Education:</h2>
 <table align="center">
   <tr>
